@@ -1,0 +1,13 @@
+fastapi
+joblib
+kagglehub
+mlflow
+nltk
+numpy
+pandas
+plotly
+scipy
+scikit-learn
+scikit-surprise
+streamlit
+uvicorn
